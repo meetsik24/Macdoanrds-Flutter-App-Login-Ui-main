@@ -1,0 +1,1 @@
+ /Users/mac/Downloads/KFC-Flutter-App-Login-Ui-main/.dart_tool/flutter_build/238b22aab30c1df1f31df79409fa82b6/native_assets.yaml: 
